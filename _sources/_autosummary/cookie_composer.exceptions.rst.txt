@@ -1,0 +1,37 @@
+﻿.. rst-class:: subheading
+
+cookie_composer.exceptions
+
+exceptions
+==========
+
+.. currentmodule:: cookie_composer.exceptions
+
+.. automodule:: cookie_composer.exceptions
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Exceptions
+
+   .. autosummary::
+      :nosignatures:
+      :toctree: exceptions
+   
+      GitError
+      MergeError
+      MissingCompositionFileError
+   
+   
+   
+   

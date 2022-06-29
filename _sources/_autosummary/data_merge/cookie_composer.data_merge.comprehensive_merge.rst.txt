@@ -1,0 +1,10 @@
+.. rst-class:: subheading
+
+cookie_composer.data_merge.comprehensive_merge
+
+comprehensive\_merge
+====================
+
+.. currentmodule:: cookie_composer.data_merge
+
+.. autofunction:: comprehensive_merge

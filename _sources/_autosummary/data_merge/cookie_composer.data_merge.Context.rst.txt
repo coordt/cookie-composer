@@ -1,0 +1,12 @@
+.. rst-class:: subheading
+
+cookie_composer.data_merge.Context
+
+Context
+=======
+
+.. currentmodule:: cookie_composer.data_merge
+
+.. autoclass:: Context
+   :members:
+   :undoc-members:

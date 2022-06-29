@@ -1,0 +1,10 @@
+.. rst-class:: subheading
+
+cookie_composer.data_merge.merge_iterables
+
+merge\_iterables
+================
+
+.. currentmodule:: cookie_composer.data_merge
+
+.. autofunction:: merge_iterables

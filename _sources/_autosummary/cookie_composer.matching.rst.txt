@@ -1,0 +1,36 @@
+﻿.. rst-class:: subheading
+
+cookie_composer.matching
+
+matching
+========
+
+.. currentmodule:: cookie_composer.matching
+
+.. automodule:: cookie_composer.matching
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+      :nosignatures:
+      :toctree: matching
+   
+      matches_any_glob
+      rel_fnmatch
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+   
+   

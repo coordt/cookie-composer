@@ -1,0 +1,10 @@
+.. rst-class:: subheading
+
+cookie_composer.exceptions.GitError
+
+GitError
+========
+
+.. currentmodule:: cookie_composer.exceptions
+
+.. autoexception:: GitError

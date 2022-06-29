@@ -1,0 +1,10 @@
+.. rst-class:: subheading
+
+cookie_composer.exceptions.MissingCompositionFileError
+
+MissingCompositionFileError
+===========================
+
+.. currentmodule:: cookie_composer.exceptions
+
+.. autoexception:: MissingCompositionFileError

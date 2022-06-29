@@ -1,0 +1,45 @@
+﻿.. rst-class:: subheading
+
+cookie_composer.data_merge
+
+data\_merge
+===========
+
+.. currentmodule:: cookie_composer.data_merge
+
+.. automodule:: cookie_composer.data_merge
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+      :nosignatures:
+      :toctree: data_merge
+   
+      comprehensive_merge
+      deep_merge
+      merge_iterables
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+      :nosignatures:
+      :toctree: data_merge
+   
+      Context
+   
+   
+
+   
+   
+   
+   
+   

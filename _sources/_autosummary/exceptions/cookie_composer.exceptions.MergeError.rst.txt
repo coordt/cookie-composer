@@ -1,0 +1,10 @@
+.. rst-class:: subheading
+
+cookie_composer.exceptions.MergeError
+
+MergeError
+==========
+
+.. currentmodule:: cookie_composer.exceptions
+
+.. autoexception:: MergeError

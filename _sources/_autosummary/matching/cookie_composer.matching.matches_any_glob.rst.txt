@@ -1,0 +1,10 @@
+.. rst-class:: subheading
+
+cookie_composer.matching.matches_any_glob
+
+matches\_any\_glob
+==================
+
+.. currentmodule:: cookie_composer.matching
+
+.. autofunction:: matches_any_glob
